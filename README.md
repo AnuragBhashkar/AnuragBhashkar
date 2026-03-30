@@ -104,14 +104,6 @@
 
 ---
 
-## 🔥 Profile Views:
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=AnuragBhashkar&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
----
-
 ## 💡 Developer Mindset:
 
 * I focus on **building real-world scalable systems**
