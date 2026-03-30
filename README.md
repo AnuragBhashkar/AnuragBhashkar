@@ -81,23 +81,6 @@
 
 ---
 
-## 📊 GitHub Stats:
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AnuragBhashkar&theme=tokyonight&show_icons=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuragBhashkar&theme=tokyonight"/>
-</p>
-
----
-
-## 📈 Most Used Languages:
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragBhashkar&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## ⚡ Activity Graph:
 
 <p align="center">
